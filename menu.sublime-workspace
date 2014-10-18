@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"MA",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ju",
+				"juliano_salida"
+			],
+			[
+				"juliano",
+				"juliano_entrada"
+			],
+			[
+				"imp",
+				"implements"
+			],
+			[
+				"muestra",
+				"muestra_alojamiento"
+			],
+			[
+				"alo",
+				"alojamiento"
+			],
+			[
+				"pa",
+				"param  (variable)"
+			],
+			[
+				"my",
+				"my_name"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Carbon",
+				"Carbon"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"alojamiento",
+				"alojamiento-activo"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"t",
+				"tarifa"
+			],
+			[
+				"FOR",
+				"foreach"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/hello.php",
+			"settings":
+			{
+				"buffer_size": 7698,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 346.0,
+		"selected_items":
+		[
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"artisan routes",
+			"php artisan routes",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/laravel/menu",
+		"/C/laravel/menu/app",
+		"/C/laravel/menu/app/views"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/oh-sol/app/views/front/head.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/routes.php",
+		"/C/xampp/htdocs/oh-sol/public/css/main.css",
+		"/C/xampp/htdocs/oh-sol/public/less/prueba_menu.less",
+		"/C/laravel/menu/public/index.php",
+		"/C/xampp/htdocs/oh-sol/app/views/PRUEBAS/head.blade.php",
+		"/C/xampp/htdocs/oh-sol/public/less/layout.less",
+		"/C/xampp/htdocs/oh-sol/app/config/app.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/menu.blade.php",
+		"/C/xampp/htdocs/oh-sol/public/less/main.less",
+		"/C/xampp/htdocs/oh-sol/app/views/PRUEBAS/pie.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/views/PRUEBAS/cabecera.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/views/PRUEBAS/html.blade.php",
+		"/C/xampp/htdocs/oh-sol/public/js/pruebas.js",
+		"/C/xampp/htdocs/oh-sol/app/views/front/cabecera.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/pie.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/models/Tipo.php",
+		"/C/xampp/htdocs/oh-sol/app/models/Dato.php",
+		"/C/xampp/htdocs/oh-sol/app/views/pruebas/menu_de_prueba.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/central.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/views/pruebas/html.blade.php",
+		"/C/Users/Joaquín/AppData/Local/Temp/Temp1_demo.zip/css3_menu_demo/prefix-free.js",
+		"/C/xampp/htdocs/oh-sol/app/views/BLADES APARCADAS/cabecera.blade.php",
+		"/C/xampp/htdocs/oh-sol/public/less/formularios.less",
+		"/C/xampp/htdocs/oh-sol/app/views/BLADES APARCADAS/html.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/entrada_de_pruebas.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/entrada.blade.php",
+		"/C/xampp/htdocs/oh-sol/public/less/tipografia.less",
+		"/C/xampp/htdocs/oh-sol/aparcados/formularios 12-10-2014 FUNCIONANDO.less",
+		"/C/SUBLIME TEXT 3 V-3059 -PORTABLE-/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/xampp/htdocs/oh-sol/app/controllers/AlojamientoController.php",
+		"/C/SUBLIME TEXT 3 V-3059 -PORTABLE-/Data/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/SUBLIME TEXT 3 V-3059 -PORTABLE-/Data/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/xampp/htdocs/oh-sol/aparcados/entrada 10-10-2014.blade.php",
+		"/C/SUBLIME TEXT 3 V-3059 -PORTABLE-/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/oh-sol/phpunit.xml",
+		"/C/xampp/htdocs/oh-sol/app/models/Tarifa.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/panel_detalle.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/disponibilidad.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/utilidades/solicitud.php",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/utilidades/util.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/solicitud.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/start/global.php",
+		"/C/xampp/htdocs/oh-sol/composer.json",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/presentadores/ver.php",
+		"/C/xampp/htdocs/oh-sol/app/controllers/InicioController.php",
+		"/C/xampp/htdocs/oh-sol/public/js/aplicacion.js",
+		"/C/xampp/htdocs/oh-sol/temporales.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/panel_detalle.blade_BUENA.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/panel.blade.php",
+		"/C/xampp/htdocs/oh-sol/apigen.neon",
+		"/C/xampp/htdocs/oh-sol/app/storage/logs/laravel-2014-10-06.log",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/presentadores/PresentadoresServiceProvider.php",
+		"/C/xampp/htdocs/oh-sol/app/storage/logs/laravel-2014-10-04.log",
+		"/C/xampp/htdocs/oh-sol/app/views/front/listado-alojamientos.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/storage/views/e28527d24e18570eafbe79b5e6c3d892",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/presentadores/PresentadorInterface.php",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/presentadores/presentadorabstracto.php",
+		"/C/xampp/htdocs/oh-sol/documentacion/class-Oh_sol.Presentadores.Ver.html",
+		"/C/xampp/htdocs/oh-sol/app/models/Alojamiento.php",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/repositorios/DbAlojamientoRepository.php",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/presentadores/moneda.php",
+		"/C/xampp/htdocs/oh-sol/app/storage/logs/laravel-2014-09-29.log",
+		"/C/xampp/htdocs/oh-sol/app/views/front/sin-registros.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/database/seeds/LocalTableSeeder.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/slider-detalle.blade.php",
+		"/C/xampp/htdocs/oh-sol/DOCUMENTOR V-1.cmd",
+		"/C/xampp/htdocs/oh-sol/DOCUMENTOR V-2.cmd",
+		"/C/xampp/htdocs/oh-sol/app/models/User.php",
+		"/C/xampp/php/apigen",
+		"/C/phpDocumentor2-2.7.0/bin/phpdoc.xml",
+		"/C/phpDocumentor2-2.7.0/README.md",
+		"/C/xampp/php/pear/Nette/Utils/Neon.php",
+		"/C/xampp/php/pear/ApiGen/Config.php",
+		"/C/xampp/php/pear/phpDocumentor/data/templates/clean/template.xml",
+		"/C/phpDocumentor2-2.7.0/src/phpDocumentor/Plugin/Twig/Writer/Twig.php",
+		"/C/xampp/htdocs/oh-sol/app/utilidades/utilidades.php",
+		"/C/phpDocumentor2-2.7.0/bin/phpdoc.dist.php",
+		"/C/phpDocumentor2-2.7.0/phpdoc.dist_OLD.xml",
+		"/C/phpDocumentor2-2.7.0/phpdoc.xml",
+		"/C/xampp/htdocs/oh-sol/vendor/phpdocumentor/GraphViz/Attribute.php",
+		"/C/phpDocumentor2-2.7.0/bin/phpdoc.php",
+		"/C/xampp/htdocs/oh-sol/app/views/front/contacto.blade.php",
+		"/C/xampp/htdocs/oh-sol/phpdoc.xml",
+		"/C/phpDocumentor2-2.7.0/tests/common/bootstrap.php",
+		"/C/phpDocumentor2-2.7.0/features/IMPORTANT.md",
+		"/C/phpDocumentor2-2.7.0/features/README.md",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/formatos/formato.php",
+		"/C/phpDocumentor2-2.7.0/src/phpDocumentor/Configuration/Resources/phpdoc.tpl.xml",
+		"/C/xampp/htdocs/oh-sol/vendor/phpdocumentor/phpdocumentor/src/phpDocumentor/Configuration.php",
+		"/C/xampp/htdocs/oh-sol/vendor/phpdocumentor/phpdocumentor/phpmd.xml.dist",
+		"/C/xampp/htdocs/oh-sol/vendor/phpdocumentor/phpdocumentor/phpdoc.dist.xml",
+		"/C/xampp/htdocs/oh-sol/vendor/phpdocumentor/phpdocumentor/features/README.md",
+		"/C/xampp/htdocs/oh-sol/vendor/phpdocumentor/phpdocumentor/features/IMPORTANT.md",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/repositorios/AlojamientoRepositoryInterface.php",
+		"/C/xampp/htdocs/oh-sol/app/oh_sol/repositorios/BackendServiceProvider.php",
+		"/C/prueba/graphs/class.html",
+		"/C/Users/Joaquín/AppData/Local/Temp/Temp1_GraphViz-master.zip/GraphViz-master/README.md",
+		"/C/xampp/htdocs/oh-sol/app/controllers/BaseController.php",
+		"/C/xampp/htdocs/oh-sol/app/controllers/HomeController.php",
+		"/C/prueba/.htaccess",
+		"/C/xampp/php/pear/PhpDocumentor/HTML_TreeMenu-1.1.2/TreeMenu.php",
+		"/C/xampp/htdocs/oh-sol/vendor/phpdocumentor/phpdocumentor/bin/phpdoc.php",
+		"/C/xampp/htdocs/oh-sol/app/models/Pregunta.php",
+		"/C/xampp/php/pear/PhpDocumentor/scripts/create_examples.php",
+		"/C/xampp/php/pear/PhpDocumentor/phpDocumentor/phpdoc.inc",
+		"/C/xampp/htdocs/oh-sol/pru.php",
+		"/C/xampp/php/pear/PhpDocumentor/scripts/add_cvs.php",
+		"/C/xampp/php/pear/PhpDocumentor/scripts/create_package.xml.php",
+		"/C/xampp/php/pear/PhpDocumentor/scripts/tokenizer_test.php",
+		"/C/xampp/htdocs/oh-sol/app/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/oh-sol/app/database/seeds/PreguntaTableSeeder.php",
+		"/C/xampp/htdocs/oh-sol/app/database/migrations/2014_05_14_183840_crear_tabla_tarifas.php",
+		"/C/xampp/htdocs/oh-sol/app/database/migrations/2014_09_13_112201_create_preguntas_table.php",
+		"/C/SUBLIME TEXT 3 V-3059 -PORTABLE-/Data/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/xampp/htdocs/oh-sol/app/storage/logs/laravel-2014-08-23.log",
+		"/C/xampp/htdocs/oh-sol/app/storage/logs/laravel-2014-08-22.log",
+		"/C/xampp/htdocs/oh-sol/app/config/view.php",
+		"/C/xampp/htdocs/oh-sol/app/database/seeds/DatoTableSeeder.php",
+		"/C/xampp/htdocs/oh-sol/app/database/seeds/TarifaTableSeeder.php",
+		"/C/xampp/htdocs/oh-sol/public/less/paneles.less",
+		"/C/SUBLIME TEXT 3 V-3059 -PORTABLE-/Data/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/oh-sol/vendor/composer/autoload_classmap.php",
+		"/C/xampp/htdocs/oh-sol/app/views/emails/disponibilidad.blade.php",
+		"/C/xampp/htdocs/oh-sol/app/config/database.php",
+		"/C/xampp/htdocs/oh-sol/app/config/oh-sol/app.php",
+		"/C/xampp/htdocs/oh-sol/bootstrap/start.php",
+		"/C/xampp/htdocs/oh-sol/.env.local.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\oh-sol",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dont-render-dawg",
+			"caret",
+			"text-center",
+			"titulo",
+			"entrada",
+			"entrar",
+			"PresentadoresServiceProvider",
+			"formrequest",
+			"CARBON",
+			"include(",
+			"moneda",
+			"Ver()",
+			"Ver",
+			"->setLabel",
+			"namespace",
+			"lib\\database",
+			"Lib\\Database",
+			"lib\\database",
+			"Carbon",
+			"();",
+			"detalle",
+			"seleccion",
+			"classmap",
+			"function from",
+			"cargamos",
+			"detalle",
+			"'detalle'",
+			"disponibilidad",
+			"entrada",
+			"td",
+			" right",
+			"slider-detalle",
+			"panel",
+			"alojamiento/detalle",
+			"AlojamientoController",
+			" {{ $clase }}",
+			"c-20",
+			"col",
+			"REMO",
+			"with"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/hello.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								584,
+								584
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 858.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "menu.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
