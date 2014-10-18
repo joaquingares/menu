@@ -9,12 +9,11 @@ para practicar y ejercitarnos en su funcionamiento.
 ## Demo
 
 De momento no hemos desarrollado ningún demo.
-joaquingares@gmail.com
 
 ### TODO
 
 Estoy abierto a cualquier sujerencia para mejorar este desarrollo.
-
+joaquingares@gmail.com
 
 ##Licencia
 
