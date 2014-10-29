@@ -1,0 +1,65 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: @alineacion;
+    margin: 0 2%;
+    background-color: @menu-fondo;
+    position: relative;
+    height: @altura-barra;
+    font-size: @fuente-tamano;
+    font-family: @fuente-familia;
+    list-style: none;
+    > li {
+        padding: 1%;
+        border-left: 2px solid #B5B5B5;
+        &:last-child{
+            border-right: 2px solid #B5B5B5;
+        }
+        > a {
+            display: flex;
+            flex-direction: column;
+            text-decoration: none;
+            > span:first-child {
+                font-size: 2em;
+                &:before {
+                    font-family: FontAwesome;
+                    content: attr(icon);
+                }
+                &:after {
+                    font-size: 0.75em;
+                    font-family: FontAwesome;
+                    content: attr(caret);
+                }
+            }
+         }
+    }
+}
+
+.sub > ul {
+    position: absolute;
+    padding: 0;
+    margin-left: -3%;
+    display: none;
+    font-size: 1.5em;
+    list-style: none;
+}
+
+.menu > li:hover{
+    background-color: @menu-hover;
+    > ul {
+        display: flex;
+        flex-direction: column;
+        > li {
+            padding: 4px;
+            border: solid 1px black;
+            background-color: @menu-fondo;
+            > a {
+                display: block; //permite que se pueda pinchar en toda la línea
+                text-decoration: none;
+            }
+        }
+        > li:hover {
+            background-color: @menu-hover;
+        }
+    }
+}

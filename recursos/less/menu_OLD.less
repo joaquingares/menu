@@ -1,26 +1,32 @@
-.menu {
-    overflow: hidden;
-    background: #eee;
-    font-size: 1em;
+* {
+    list-style: none;
+    text-decoration: none;
     margin: 0;
     padding: 0;
+}
+.menu {
+    overflow: hidden;
+    background: @menu-fondo;
+    font-size: 1em;
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-end;
-    list-style: none;
+    justify-content: @alineacion;
+    position: relative;
     .menu-a {
         padding: 1.25rem 0.5rem;
         font-size: 1.6rem;
         font-weight: bold;
-        text-decoration: none;
         display: flex;
         align-items: flex-start;
         color: #333;
         &:hover, &:focus {
-            background: #ccc;
+            background: @menu-hover;
             color: black;
            .menu-span {
                 color: black;
+            }
+          .submenu {
+                opacity: 1
             }
         }
     }
@@ -38,43 +44,38 @@
     }
 }
 
-.sub:hover {
-    .submenu{
-        opacity: 1
-    }
-}
+// .sub:hover {
+//     .submenu{
+//         opacity: 1
+//     }
+// }
 
-.submenu > li:hover{
-    background-color: #ccc;
-    .menu > li:hover {   //ESTO NO FUNCIONA
-        background-color: #ccc;
-    }
-}
+// .submenu > li:hover{
+//     background-color: #ccc;
+//     .menu > li:hover {   //ESTO NO FUNCIONA
+//         background-color: #ccc;
+//     }
+// }
 
 .submenu {
     position: absolute;
     margin-left: -10%;
     display: flex;
     flex-direction: column;
-    list-style: none;
     opacity: 0;
     > li {
-        position: relative;
+        // position: relative;
     }
 }
 .submenu-a {
-    position: absolute;
-    background-color: #eee;
+    // position: absolute;
+    background-color: @menu-fondo;
     padding: 5px;
     border: solid 1px black;
     flex-grow: 1;
     > a {
         display: block; //permite que se pueda pinchar en toda la línea
     }
-}
-
-.submenu-a > a {
-    text-decoration: none;
 }
 
 .caret {

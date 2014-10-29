@@ -1,46 +1,51 @@
 <ul class='menu'>
     <li>
-        <a href="#" class='menu-a'>
-            <i class="menu-i fa fa-home"></i>
-            <div>- Inicio<span class='menu-span'>inicio de la aplicación</span></div>
+        <a href="#">
+            <span icon='&#xf015 - '>Inicio</span>
+            <!-- <span>inicio de la aplicación</span>
+            <span>segunda aclaración</span>
+            <span>Ultima aclaración</span> -->
         </a>
     </li>
     <li class='sub'>
-        <a href="#" class='menu-a'>
-            <i class="menu-i fa fa-tags"></i>
-            <div>- Servicios<span class='menu-span'>nuestras prestaciones</span></div>
+        <a href="#">
+            <span icon='&#xf02c - ' caret=' &#XF0D7'>Servicios</span>
         </a>
-        <ul class='submenu'>
-            <li class='submenu-a'><a href="#">Preventa</a></li>
-            <li class='submenu-a'><a href="#">Consultas técnicas</a></li>
-            <li class='submenu-a'><a href="#">Posventa</a></li>
-            <li class='submenu-a'><a href="#">Averías</a></li>
-            <li class='submenu-a'><a href="#">Manuales de uso actuales y descatalogados</a></li>
-            <li class='submenu-a'><a href="#">Sugerencias</a></li>
+        <ul>
+            <li><a href="#"><span>Preventa</span></a></li>
+            <li><a href="#"><span>Consultas técnicas y lo que sea tal vez podamos verlo</span></a></li>
+            <li><a href="#"><span>Posventa</span></a></li>
+            <li><a href="#"><span>Averías</span></a></li>
+            <li><a href="#"><span>Manuales de uso actuales y descatalogados</span></a></li>
+            <li><a href="#"><span>Sugerencias</span></a></li>
         </ul>
     </li>
     <li>
-        <a href="#" class='menu-a'>
-            <i class="menu-i fa fa-envelope"></i>
-            <div>- Contacto<span class='menu-span'>haga su sugerencia</span></div>
+        <a href="#">
+            <span icon="&#xf0e0 - ">Contacto</span>
+            <!-- <span>haga su sugerencia</span>
+            <span>Ultima aclaración</span> -->
         </a>
     </li>
-    <li class='sub'>
-        <a href="#" class='menu-a'>
-            <i class="menu-i fa fa-info"></i>
-            <div>- Información<b class="caret"></b><span class='menu-span'>quizás le interese...</span></div>
-        </a>               <!-- <div class='subnivel'> -->
+    <li class='sub' title='Información varia'>
+        <a href="#">
+            <span icon="&#xf129 - " caret=' &#XF0D7'>Información</span>
+            <span>Aquí aclaramos las cosas</span>
+        </a>
         <ul class='submenu'>
-            <li class='submenu-a'><a href="#">Nuestra competencia</a></li>
-            <li class='submenu-a'><a href="#">Características de uso</a></li>
-            <li class='submenu-a'><a href="#">El Tiempo</a></li>
-            <li class='submenu-a'><a href="#">La Carretera</a></li>
-            <li class='submenu-a'><a href="#">Cómo se enciende</a></li>
-            <li class='submenu-a'><a href="#">Mi primera vez</a></li>
+            <li><a href="#"><span>Nuestra competencia</span></a></li>
+            <li><a href="#"><span>Características de uso</span></a></li>
+            <li><a href="#"><span>El Tiempo</span></a></li>
+            <li><a href="#"><span>La Carretera</span></a></li>
+            <li><a href="#"><span>Cómo se enciende</span></a></li>
+            <li><a href="#"><span>Mi primera vez</span></a></li>
         </ul>
-                <!-- </div> -->
+    </li>
+    <li>
+        <a href="#">
+            <span icon="&#xf090 - ">Entrar</span>
+            <!-- <span>haga su sugerencia</span>
+            <span>Ultima aclaración</span> -->
+        </a>
     </li>
 </ul>
-
-
-
